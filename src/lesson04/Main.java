@@ -11,7 +11,6 @@ public class Main {
         set.add(5);
         set.add(15);
         set.add(3);
-        System.out.println(set);
-Comparator
+        System.out.println("test2");
     }
 }
