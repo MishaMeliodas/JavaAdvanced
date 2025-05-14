@@ -11,6 +11,6 @@ public class Main {
         set.add(5);
         set.add(15);
         set.add(3);
-        System.out.println("test2");
+        System.out.println("test2" + "test");
     }
 }
