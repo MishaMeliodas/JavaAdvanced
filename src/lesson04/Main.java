@@ -12,5 +12,7 @@ public class Main {
         set.add(15);
         set.add(3);
         System.out.println("test2" + "test");
+        int a = 0;
+        int b = a;
     }
 }
