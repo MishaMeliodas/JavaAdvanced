@@ -14,5 +14,6 @@ public class Main {
         System.out.println("test2" + "test");
         int a = 0;
         int b = a;
+        int c = 0;
     }
 }
