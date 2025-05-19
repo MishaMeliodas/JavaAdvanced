@@ -7,7 +7,7 @@ import java.util.TreeSet;
 
 public class Main {
     public static void main(String[] args) {
-        Set<Integer> set = new TreeSet<>((o1, o2) -> o1 - o2);
+       /* Set<Integer> set = new TreeSet<>((o1, o2) -> o1 - o2);
         set.add(5);
         set.add(15);
         set.add(3);
@@ -15,6 +15,6 @@ public class Main {
         int a = 0;
         int b = a;
         int c = 0;
-        int l =0;
+        int l =0;*/
     }
 }
